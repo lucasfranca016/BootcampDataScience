@@ -1,7 +1,7 @@
 # Projeto do primeiro módulo:
 
 # Objetivo:
-* O escolpo do meu projeto será analisar os dados referentes aos óbitos, gastos, internações e médias de permanência por unidade de federação  Ano/Mês processamento a fim de gerar hipóteses de correlação e assimilar padrões em comum, principalmente na faixa temporal referente ao início da crise do vírus COVID-19.
+* O escopo do meu projeto será analisar os dados referentes aos óbitos, gastos, internações e médias de permanência por unidade de federação  Ano/Mês processamento a fim de gerar hipóteses de correlação e assimilar padrões em comum, principalmente na faixa temporal referente ao início da crise do vírus COVID-19.
 # Resultados:
 * ![Kazam_screenshot_00007](https://user-images.githubusercontent.com/83654122/119813984-4a087a80-bec0-11eb-893a-354be7740b68.png)
 * ![Kazam_screenshot_00006](https://user-images.githubusercontent.com/83654122/119814011-5096f200-bec0-11eb-86b5-ca7ae32d101f.png)
