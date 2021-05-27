@@ -7,5 +7,5 @@ Repositório para meus notebooks e projetos do bootcamp de Data Science da Alura
 * Um exemplo de análise que fizemos foi a de tratar os dados e depois montar um gráfico dos 5 estados que mais gastaram com saúde:
 ![Kazam_screenshot_00002](https://user-images.githubusercontent.com/83654122/119781257-30a40600-bea1-11eb-8a8c-72d91ca405f5.png)
 
-* Outro exemplo de análise feita foi montar um gráfico que mostra o número de óbitos na faixa temporal de 2018 até o início de 2021:
+* Outro exemplo de análise feita foi montar um gráfico que mostra o número de óbitos por região geográfica na faixa temporal de 2018 até 2021:
 ![Kazam_screenshot_00003](https://user-images.githubusercontent.com/83654122/119781633-a27c4f80-bea1-11eb-800d-41d7df11086f.png)
