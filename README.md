@@ -1,5 +1,5 @@
 # Repositório do Bootcamp de Data Science Aplicado
-Repositório para meus notebooks e projetos do bootcamp de Data Science da Alura. Dividirei as pastas para cada módulo e dentro delas apresentarei um pouco do trabalho de cada módulo junto com seus projetos finais.
+Repositório para meus notebooks e projetos do bootcamp de Data Science da Alura. Dividirei as pastas para cada módulo e neste readme focarei em falar dos aspectos gerais de cada módulo enquanto dentro de cada diretório dos módulos haverá um readme específico sobre o projeto do respectivo módulo.
 
 # Módulo 1: Python e pandas para análise de dados reais.
 * Neste módulo trabalhamos com dados do SUS, obtidos pela fonte do governo : http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qiuf.def onde como linha selecionamos "Unidade da Federação" e conteúdo selecionamos "Valor total", alternando os valores das colunas de acordo com nosso interesse. Pegamos esses dados para todos os meses e anos disponíveis. 
