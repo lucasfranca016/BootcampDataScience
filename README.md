@@ -9,3 +9,9 @@ Repositório para meus notebooks e projetos do bootcamp de Data Science da Alura
 
 * Outro exemplo de análise feita foi montar um gráfico que mostra o número de óbitos por região geográfica na faixa temporal de 2018 até 2021:
 ![Kazam_screenshot_00003](https://user-images.githubusercontent.com/83654122/119781633-a27c4f80-bea1-11eb-800d-41d7df11086f.png)
+
+# Módulo 2: Visualização de dados com Seaborn e Matplotlib.
+
+* Neste módulo seguimos com as análises dos dados financeiros do SUS. Fomos mais detalhistas no tratamento e manipulação dos dados para análises mais complexas, utilizando recursos mais avançados do Pandas e da Linguagem Python como um todo, assim como outras bibliotecas como o própria Seaborn.
+
+# Módulo 3: Análise de séries temporais.
