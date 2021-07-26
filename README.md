@@ -4,14 +4,15 @@ Repositório para meus notebooks e projetos do bootcamp de Data Science da Alura
 # Módulo 1: Python e pandas para análise de dados reais.
 * Neste módulo trabalhamos com dados do SUS, obtidos pela fonte do governo : http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qiuf.def onde como linha selecionamos "Unidade da Federação" e conteúdo selecionamos "Valor total", alternando os valores das colunas de acordo com nosso interesse. Pegamos esses dados para todos os meses e anos disponíveis. 
 * O objetivo deste módulo foi utilizar funções básicas da biblioteca pandas para manipular o DataFrame e tratar-lo a fim de se retirar informações e até criar gráficos informativos.
-* Um exemplo de análise que fizemos foi a de tratar os dados e depois montar um gráfico dos 5 estados que mais gastaram com saúde:
-![Kazam_screenshot_00002](https://user-images.githubusercontent.com/83654122/119781257-30a40600-bea1-11eb-8a8c-72d91ca405f5.png)
-
-* Outro exemplo de análise feita foi montar um gráfico que mostra o número de óbitos por região geográfica na faixa temporal de 2018 até 2021:
-![Kazam_screenshot_00003](https://user-images.githubusercontent.com/83654122/119781633-a27c4f80-bea1-11eb-800d-41d7df11086f.png)
 
 # Módulo 2: Visualização de dados com Seaborn e Matplotlib.
 
 * Neste módulo seguimos com as análises dos dados financeiros do SUS. Fomos mais detalhistas no tratamento e manipulação dos dados para análises mais complexas, utilizando recursos mais avançados do Pandas e da Linguagem Python como um todo, assim como outras bibliotecas como o própria Seaborn.
 
 # Módulo 3: Análise de séries temporais.
+
+* Neste módulo aprendemos a tratar séries temporais, utilizando como objeto de estudo a série tempo dos casos de covid-19 na cidade de São Paulo. Nós trabalhamos principalmente com a biblioteca Prophet e aprendemos a criar um modelo para prever o número de casos de Covid-19, modificando alguns parâmetros para além de um modelo básico, como adicionar a informação de quais dias são feriados, além de alterar o valor de algumas variáveis que definem o quão o algoritmo vai se modelar aos dados. Além disse utilizamos algumas métricas estatísticas de bibliotecas como o Scikit Learning, entre outras, para avaliar o desempenho do nosso modelo. Meu projeto final desse módulo consistiu em criar um modelo preditivo para o estado do Rio de Janeiro assim como fazer uma breve discussão sobre a adoção de medidas de distanciamento social ao combate da Covid-19, comparando ao estado de Berlim, na Alemanha.
+
+# Módulo 4: Machine Learning e Saúde.
+
+*Neste módulo abordamos o assunto de machine learning aplicado ao problema de previsão de uso de UTIS por pacientes internados no hospital Sírio-Libanês. Trabalhamos com modelos de Regressão linear do scikit learning básicos aliados à manipulação dos dados para o melhor desempenho possível desses modelos.
