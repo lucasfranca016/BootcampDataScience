@@ -15,4 +15,8 @@ Repositório para meus notebooks e projetos do bootcamp de Data Science da Alura
 
 # Módulo 4: Machine Learning e Saúde.
 
-*Neste módulo abordamos o assunto de machine learning aplicado ao problema de previsão de uso de UTIS por pacientes internados no hospital Sírio-Libanês. Trabalhamos com modelos de Regressão linear do scikit learning básicos aliados à manipulação dos dados para o melhor desempenho possível desses modelos.
+* Neste módulo abordamos o assunto de machine learning aplicado ao problema de previsão de uso de UTIS por pacientes internados no hospital Sírio-Libanês. Trabalhamos com modelos de Regressão linear do scikit learning básicos aliados à manipulação dos dados, onde o foco do módulo foi a manipulação e a análise explanatória para melhor compreensão do problema para assim podermos criar um algoritmo mais sofisticado que busque resolver esta questão pertinente.
+
+# Módulo 5: Machine Learning: Modelos, métricas e validação.
+
+* Ainda trabalhando no problema do hospital Sírio-Libanês disponibilizado no kaggle estamos agora com foco na criação de um bom algoritmo de Machine Learning, para isso, avaliamos qual seria a melhor métrica de avaliação para definirmos o melhor modelo assim como seus parâmetros, além da realização de outras prátricas estatistico-computacionais para verificar a validade dos resultados de nossos modelos.
