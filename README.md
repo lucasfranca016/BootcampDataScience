@@ -20,3 +20,6 @@ Repositório para meus notebooks e projetos do bootcamp de Data Science da Alura
 # Módulo 5: Machine Learning: Modelos, métricas e validação.
 
 * Ainda trabalhando no problema do hospital Sírio-Libanês disponibilizado no kaggle estamos agora com foco na criação de um bom algoritmo de Machine Learning, para isso, avaliamos qual seria a melhor métrica de avaliação para definirmos o melhor modelo assim como seus parâmetros, além da realização de outras prátricas estatistico-computacionais para verificar a validade dos resultados de nossos modelos.
+
+# Módulo 6: Data Science aplicado em finanças.
+* Análise exploratória ,tratamento de dados e treinamento de um modelo para o problema específico de análise de crédito bancário. Se fez necessário a discussão de novas métrias, ressaltando por exemplo a métrica de KS-Score, além de um método de tratamento de dados específico da área bancária chamado análise vintage.
